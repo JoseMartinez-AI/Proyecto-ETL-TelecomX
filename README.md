@@ -106,3 +106,6 @@ Basado en los hallazgos, se proponen las siguientes estrategias para reducir la 
    ```bash
    git clone https://github.com/JoseMartinez-AI/Proyecto-ETL-TelecomX.git
    cd Proyecto-ETL-TelecomX
+
+## Autor
+**Jose Martínez**
